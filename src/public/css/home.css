@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(to left, #FBA834, #387ADF);
+    color: #fff;
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.card {
+    background-color: #fff;
+}
+
+.card-title {
+    color: #387ADF;
+}
+
+.card-text {
+    color: #555;
+}
